@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "[시간표] 1-8"  
+title: "[신창중학교] 1-8"  
 subtitle: "신창중학교 1학년 8반 시간표 | Sin-Chang Middle School 1-8 Class Schedule"  
 categories: Schedule
 tags:   
