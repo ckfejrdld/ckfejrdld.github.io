@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: "[신창중학교] 1-8"  
-subtitle: "신창중학교 1학년 8반 시간표 | Sin-Chang Middle School 1-8 Class Schedule"  
+subtitle: "신창중학교 1학년 8반 시간표 | Shin-Chang Middle School 1-8 Class Schedule"  
 categories: Schedule
 tags:   
 comments: true  
@@ -13,7 +13,7 @@ header-img:
 
 
 
-신창중학교 / Sin-Chang Middle School
+신창중학교 / Shin-Chang Middle School
 
 [08시00분 - 08시30] | 자가진단
 [08시50분 - 09시00] | 출석체크
