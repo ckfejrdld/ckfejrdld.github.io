@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "[신창중학교] 1-8"  
+title: "[신창중학교] 1-8 임시 시간표(12.28~ 12.31)"  
 subtitle: "신창중학교 1학년 8반 임시시간표 | Shin-Chang Middle School 1-8 Temporary Class Schedule"  
 categories: Schedule
 tags:   
