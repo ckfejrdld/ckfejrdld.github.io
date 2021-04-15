@@ -1,6 +1,6 @@
 ---
 layout: list
-title: School Schdule
+title: School Schedule
 slug: Schedule
 menu: true
 submenu: false
