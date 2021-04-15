@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "<2021학년도 신창중학교 2학년 시험 범위>"
-subtitle:   "<2021학년도 신창중학교 2학년 시험 범위"
+title:  "2021학년도 신창중학교 2학년 시험 범위"
+subtitle:   "2021학년도 신창중학교 2학년 시험 범위"
 categories: Schedule
 tags: 
 comments: true
