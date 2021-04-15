@@ -12,4 +12,4 @@ header-img: img/review/2019-04-02-review-book-hyperledger-fabric-2-Cover.png
 Test
 
 
-[한빛미디어 바로가기](http://www.hanbit.co.kr/)
+
