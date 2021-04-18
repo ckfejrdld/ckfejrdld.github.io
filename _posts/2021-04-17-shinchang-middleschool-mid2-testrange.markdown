@@ -5,7 +5,7 @@ subtitle:   "신창중학교 2021학년도 2학년 1차고사 범위"
 categories: schedule
 tags: Schedule first mid test
 comments: true
-header-img: img/post_img/Test_range.jpg
+header-img: img/schedule/Test_range.jpg
 ---
 
 #4월 27일 (화)
