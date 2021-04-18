@@ -5,7 +5,7 @@ subtitle:   "신창중학교 2021학년도 2학년 4반 시간표"
 categories: schedule
 tags: 2-4-class-schedule
 comments: true
-header-img: img/post_img/2-4-class-schedule.jpg
+header-img: img/schedule/2-4-class-schedule.jpg
 ---
 
 #2-4시간표
