@@ -1,7 +1,7 @@
 ---
 layout: list
 title: School Schedule
-slug: Schedule
+slug: schedule
 menu: true
 submenu: false
 order: 1
